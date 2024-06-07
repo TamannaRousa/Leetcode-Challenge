@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class Leetcode846 {
         public boolean findsucessors(int[] hand, int groupSize, int i, int n) {
             int f = hand[i] + 1;
