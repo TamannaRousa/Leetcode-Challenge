@@ -1,3 +1,4 @@
+import java.util.*;
 public class Leetcode2073 {
         public int minMovesToSeat(int[] seats, int[] students) {
             Arrays.sort(seats);
