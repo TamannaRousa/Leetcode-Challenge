@@ -1,3 +1,4 @@
+import java.util.*;
 public class Leetcode1552 {
         // Check if we can place 'm' balls at 'position'
         // with each ball having at least 'x' gap.
